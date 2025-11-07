@@ -1,1 +1,1 @@
-For my final project for GirlsWhoCode, I created an activist website to take action for autism awareness! I used all the knowledge I knew from the program to create the website. Here is the ***[website]([https://learn-autism-awareness.glitch.me/index.html](https://learn-autism-awareness.vercel.app/))***.
+For my final project for GirlsWhoCode, I created an activist website to take action for autism awareness! I used all the knowledge I knew from the program to create the website. Here is the ***[website](https://learn-autism-awareness.vercel.app/)***.
